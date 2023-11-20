@@ -2,7 +2,7 @@
 A Mastermind game developed by Tre Miller for the 2023 REACH cohort 
 
 # Instructions
-This game was created using Python 3.11 on Visual Studio 2023 IDE software. In order to run the program, simply download python 3.11 as well as any IDE software capable of interpreting python 3.11. such as Visual Studio 2023. Next, download my MastermindGame file along with every sound file in the repository. To ensure the game runs correctly, make sure all files are in the same directory before running the game. Finally, run the game.
+This game was created using Python 3.11 on Visual Studio 2023 IDE software. In order to run the program, simply download python 3.11 as well as any IDE software capable of interpreting python 3.11. such as Visual Studio 2023. Next, download my MastermindGame file along with every sound file in the repository. To ensure the game runs correctly, make sure all files are in the same directory before running the game. Finally, run the MastermindGame file.
 
 # Premise
 In this game you play as an Avenger, one of Earth's Mightiest Heroes from Marvel Comics. In the Marvel Universe villainy is around every corner. Luckily, so is heroism. Depending on the difficulty selected, you will be tasked with stopping one of three villains (M.O.D.O.K, Dr. Doom, and Galactus) from carrying out their plans to harm the planet. Each of these villains are using doomsday devices to threaten the populace.  To stop these maniacal masterminds you must hack into their devices by decoding the secret sequence and save the day!
