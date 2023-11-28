@@ -349,9 +349,9 @@ def play_again():
 
             return False
 
-EZ = 30
-MD = 20
-HD = 10
+EZ = 120
+MD = 90
+HD = 60
 
 if __name__ == "__main__":
     # Game Start
